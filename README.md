@@ -97,7 +97,7 @@ poetry run python -m src
 
 После запуска проекта окно терминала выглядит так:
 
-![Image text](https://github.com/chumanastasia/socket_stream_video_test/blob/master/static/images_for_readme/terminal1.png)
+![Image text](https://github.com/chumanastasia/socket_stream_video/blob/master/static/images_for_readme/terminal1.png)
 
 Далее необходимо перейти по  второй ссылке, указанной в терминале. В случае, указанной на картинке выше, это адрес <http://192.168.0.196:5555> , но у Вас будет свой.
 Либо в проекте перейти по хосту, указанному в 
@@ -116,11 +116,11 @@ class Settings(BaseSettings):
 ```
 В браузере страница клиента выглядит так:
 
-![Image text](https://github.com/chumanastasia/socket_stream_video_test/blob/master/static/images_for_readme/web1.png)
+![Image text](https://github.com/chumanastasia/socket_stream_video/blob/master/static/images_for_readme/web1.png)
 
 После этого в терминале появятся числа, которые клиент получает и печатает в терминал
 
-![Image text](https://github.com/chumanastasia/socket_stream_video_test/blob/master/static/images_for_readme/terminal_client.png)
+![Image text](https://github.com/chumanastasia/socket_stream_video/blob/master/static/images_for_readme/terminal_client.png)
 
 Если к роутеру подключено несколько устройств, то и они могут подключиться к видеопотоку
-![Image](https://github.com/chumanastasia/socket_stream_video_test/blob/master/static/images_for_readme/work3.gif)
+![Image](https://github.com/chumanastasia/socket_stream_video/blob/master/static/images_for_readme/work3.gif)
