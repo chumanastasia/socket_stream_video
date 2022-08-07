@@ -20,7 +20,7 @@ PyZMQ.
 ### **Инструкция 1️⃣**
 - Склонируйте репозиторий
 ```python
-git clone ...
+git clone git@github.com:chumanastasia/socket_stream_video.git
 ```
 - Откройте проект в среде разработки и установите зависимости
 ```python
